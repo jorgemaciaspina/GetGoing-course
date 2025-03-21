@@ -1,0 +1,10 @@
+# Go file structure
+/go
+  /src
+    /project-1
+    /project-2
+  bin/
+    compiled-binary-1
+    compiled-binary-2
+  pkg/
+    objects-to-be-linked
